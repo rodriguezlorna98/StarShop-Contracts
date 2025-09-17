@@ -1,5 +1,5 @@
 [package]
-name = "implement-nft-contract"
+name = "nft-contract"
 version = "0.0.0"
 edition = "2021"
 
