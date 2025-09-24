@@ -15,7 +15,8 @@ members = [
     "StarShopContracts/product-voting-contract",
     "StarShopContracts/promotional-boost-contract",
     "StarShopContracts/referral-contract",
-    "StarShopContracts/subscription-system-contract"
+    "StarShopContracts/subscription-system-contract",
+    "StarShopContracts/crop-yield-prediction",
 ]
 
 [workspace.dependencies]
